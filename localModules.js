@@ -9,7 +9,7 @@ module.exports = sayHello
 const hai = function() {
     console.log("haiiii");
 }
-module.exports = hai
+module.exports = hai;
 
 const user = {
     name: "John",
